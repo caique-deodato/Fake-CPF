@@ -1,0 +1,13 @@
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.exe
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.deps.json
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.runtimeconfig.json
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.runtimeconfig.dev.json
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.dll
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.pdb
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.csprojAssemblyReference.cache
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.AssemblyInfoInputs.cache
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.AssemblyInfo.cs
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.dll
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.pdb
+D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.genruntimeconfig.cache
