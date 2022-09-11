@@ -11,3 +11,17 @@ D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.csproj.C
 D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.dll
 D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.pdb
 D:\Projetos C#\Fake CPF\FakeCPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.genruntimeconfig.cache
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.exe
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.deps.json
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.runtimeconfig.json
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.runtimeconfig.dev.json
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.dll
+D:\DevProjects\Fake-CPF\FakeCPF\bin\Debug\netcoreapp3.1\FakeCPF.pdb
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.csproj.AssemblyReference.cache
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.AssemblyInfoInputs.cache
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.AssemblyInfo.cs
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.csproj.CoreCompileInputs.cache
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.dll
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.pdb
+D:\DevProjects\Fake-CPF\FakeCPF\obj\Debug\netcoreapp3.1\FakeCPF.genruntimeconfig.cache

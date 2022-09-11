@@ -5,6 +5,112 @@ using System.Text;
 namespace FakeCPF {
     class CPF {
 
+        public string Completo;
+
+        public CPF (string cpf)
+        {
+            Completo = cpf;
+        }
+
+        public string Numero()
+        {
+            string numStr = "";
+
+            foreach (var caracter in Completo)
+            {
+                if (caracter != '.' && caracter != '-')
+                {
+                    numStr += caracter;
+                }
+            }
+
+            return numStr;
+        }
+
+        public int DigitoVerificador()
+        {
+            string tempDigito = "";
+
+            if(Numero().Length == 11)
+            {
+                tempDigito += Numero()[9];
+                tempDigito += Numero()[10];
+            }
+            else 
+            {
+                tempDigito += Numero()[9];
+            }
+
+            return int.Parse(tempDigito);
+        }
+
+        public int CalcDigito1()
+        {
+            int digVerif;
+            int digito;
+            int multiplicador = 10;
+            int soma = 0;
+
+
+            //Percorre os 9 primeiros digitos (sem digitos verificadores) e multiplica por 10 decrementando a cada digito
+            for(int i=0; i<9; i++)
+            {
+                digito = (int)(Char.GetNumericValue(Numero()[i])) ;
+                soma += digito * multiplicador;
+
+                multiplicador--;
+            }
+
+            //Percorre
+            if(soma % 11 < 2) {
+                digVerif = 0;
+            }
+            else
+            {
+                digVerif = 11 - (soma % 11);
+            }
+
+            return digVerif;
+        }
+
+        public int CalcDigito2()
+        {
+            int digVerif;
+            string numeroCalc = Numero() + CalcDigito1();
+            int digito;
+            int multiplicador = 11;
+            int soma = 0;
+
+            //Percorre os 9 primeiros digitos (sem digitos verificadores) e multiplica por 10 decrementando a cada digito
+            for (int i = 0; i < 10; i++)
+            {
+                digito = (int)(Char.GetNumericValue(numeroCalc[i]));
+                soma += digito * multiplicador;
+
+                multiplicador--;
+            }
+
+            //Percorre
+            if (soma % 11 < 2)
+            {
+                digVerif = 0;
+            }
+            else
+            {
+                digVerif = 11 - (soma % 11);
+            }
+
+            return digVerif;
+        }
+
+        public bool Valido()
+        {
+            int verificacao = CalcDigito1() * 10 + CalcDigito2();
+
+            return verificacao == DigitoVerificador();
+        }
+
+        /*
         public long Numero;
         public string Nome;
         public string Estado;
@@ -189,6 +295,6 @@ namespace FakeCPF {
 
         }
 
-
+     */
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ihqmW+E+1+8nh8rYjX9MM/Kx0lRc6GuRteCwoy6rLe4ne2w4l9yduO1LQzS7775UNIOlf9XzmSF3UD9fYXNiw==",
+  "dgSpecHash": "PLnROX/YNB6hyNtQBXHCK+SuXcjhtCy8IAZeRWR3K5hg7tDKsDH88fXjU+yxnJFiwYI1NQum4INCOffMA1LtUw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos C#\\Fake CPF\\FakeCPF\\FakeCPF\\FakeCPF.csproj",
+  "projectFilePath": "D:\\DevProjects\\Fake-CPF\\FakeCPF\\FakeCPF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
